@@ -40,7 +40,7 @@
 <span style="color:#2ea043; font-weight:bold;">nonadityaraj@github</span>
 -------------------
 <span style="color:#2ea043;">OS</span>        : Windows 11 Pro 23H2 (64-bit)
-<span style="color:#2ea043;">Host</span>      : HP Pavilion Laptop 15-ec0xxx
+<span style="color:#2ea043;">Host</span>      : Acer Aspire 7 
 <span style="color:#2ea043;">Shell</span>     : PowerShell 7.4.1
 <span style="color:#2ea043;">Terminal</span>  : Windows Terminal
 <span style="color:#2ea043;">Editor</span>    : Visual Studio Code
